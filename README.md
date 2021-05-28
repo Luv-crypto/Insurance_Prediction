@@ -1,6 +1,6 @@
-created on 28 May, 2021
+Created on 28 May, 2021
 
-@author: Love Fadia
+Author: Love Fadia
 
 The code above predicts the Insurace prices for the patients based on the features given in the Dataset 
 The project is organized as follows
