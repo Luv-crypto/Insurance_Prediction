@@ -9,7 +9,7 @@ The project is organized as follows
 3) Training models
 4) Model evaluation
 
-Insurance.csv: dataset used for model building.
+insurance.csv: dataset used for model building.
 
 Insurance.ipynb: the jupyter notebook containing code
 
